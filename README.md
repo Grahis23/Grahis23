@@ -1,16 +1,21 @@
 ## Hi there 👋
-
+My Name is Grahish Arul and I am a sophomore getting into coding javascript you can reach me at 810-576-8965 
 <!--
 **Grahis23/Grahis23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a course for learning javascript
+- 🌱 I’m currently learning java script
+- 🤔 I’m looking for help with getting opportunities to express my javascript skills
+- 💬 Ask me about the experience of learning javascript
+- 📫 How to reach me: at my phone number 810-576-8965 
 -->
+## 🛠 Technology Stack 
+
+* Java/Kotlin/Groovy 
+
+* MySQL, PostgreSQL, MongoDB 
+
+* Spring Framework, Spring Boot 
+
+* GitHub/GitLab 
