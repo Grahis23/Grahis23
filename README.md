@@ -12,7 +12,7 @@ My Name is Grahish Arul and I am a sophomore getting into coding javascript you 
 -->
 
 <p align='center'> 
-   <a href="https://www.linkedin.com/in/yourprofile/"> 
+   <a href="https:/[/www.linkedin.com/in/yourprofile](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGV1FBKFO4wJAAAAY-_soW4CS5mS9gtQTj7CMnhYk17uA1srzBC350nRY9cdav87R2JFypzGcYDDjJS9ugGN-Y8ZhopJnRQyCDuXXJ3OOCixAVTeV2oTkowr7V5wlXQ0LtHiUw=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyourprofile)/"> 
 
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
