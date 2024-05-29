@@ -21,9 +21,9 @@ I am Grahish Arul, a young novice coder who is hoping to go places in the field 
 
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+   <a href="https://github-readme-stats.vercel.app/api?username=grahis23&show_icons=true&count_private=true"> 
 
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+       <img height=150 src="https://github-readme-stats.vercel.app/api?grahis23=grahis23&show_icons=true&count_private=true"/> 
 
    </a> 
 
