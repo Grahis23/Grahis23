@@ -11,7 +11,7 @@
 *12345 Golden Crystal Road*
   #
 Grand Blanc Highschool Sophomore Student
-I am Grahish Arul, a young aspiring coder who is hoping to go places in the field of coding
+I am Grahish Arul, a young novice coder who is hoping to go places in the field of coding
 
 
  - I am working to expertise myself with any coding languages and the interfaces you are required to navigate to use them
