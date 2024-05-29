@@ -1,39 +1,24 @@
-## Hi there 👋
-My Name is Grahish Arul and I am a sophomore getting into coding javascript you can reach me at 810-576-8965 
-<!--
-**Grahis23/Grahis23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  *Grahish Arul*
 
-
-- 🔭 I’m currently working on a course for learning javascript
-- 🌱 I’m currently learning javascript
-- 🤔 I’m looking for help with getting opportunities to express my javascript skills
-- 💬 Ask me about the experience of learning javascript
-- 📫 How to reach me: at my phone number 810-576-8965 
--->
-
-<p align='center'> 
-   <a href="https://www.linkedin.com/in/yourprofile/"> 
-
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
-
-   </a> 
-
-   <a href="https://t.me/yourchannel"> 
-
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
-
-   </a> 
-   </a> 
-   📫 How to reach me: <a href='mailto:grahisharul88@gbstu.org'>grahisharul88@gbstu.org</a> 
-
+# Contact Info
+<a href='mailto:grahisharul88@gbstu.org'>grahisharul88@gbstu.org</a> 
 </p> 
 
-## 🛠 Technology Stack 
+<a href="https://www.instagram.com/grahish.08"> Instagram
 
-* Java/Kotlin/Groovy 
+*(810) 578-5358*
+   
+*12345 Golden Crystal Road*
+  #
+Grand Blanc Highschool Sophomore Student
+I am Grahish Arul, a young aspiring coder who is hoping to go places in the field of coding
 
-* MySQL, PostgreSQL, MongoDB 
 
-* Spring Framework, Spring Boot 
+ - I am working to expertise myself with any coding languages and the interfaces you are required to navigate to use them
+ - I feel I am struggling to get myself set for learning coding, and by that I mean with finding proper resources to learn everything from the ground up
+ - I am an NHS member with a 3.8+GPA and many extracurriculars 
 
-* GitHub/GitLab
+   #
+
+   
+   
